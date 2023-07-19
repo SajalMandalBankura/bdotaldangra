@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: #EDECEC;
+	/*background: url(image/back.jpg);*/
+	background-size: cover;	
+}
+.box
+{
+	
+	background: rgba(0,0,0,.7);
+	border-radius: 25px;
+	margin: 10px auto;
+	box-sizing: border-box;
+	border: 3px solid blue;
+}
+
+.box h1
+{
+	margin: 0 0 30px;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+}
+.box .inputBox
+{
+	position: relative;
+}
+.box .inputBox input
+{
+	width: 100%
+	padding: 10px 0;
+	font-size: 20px;
+	color: #fff;
+	letter-spacing: 1px;
+	margin-bottom: 30px;
+	border: none;
+	border-bottom: 1px solid #fff;
+	outline: none;
+	background: transparent;
+	position: relative;
+ 	top: 70%;
+ 	left: 10%;
+
+}
+.box .inputBox label
+{
+	position: relative;
+	top: 0;
+	left: -68%;
+	padding: 10px 0;
+	font-size: 15px;
+	color: #fff;
+	letter-spacing: 1px;
+	pointer-events: none;
+	transition: .5s;
+}
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label
+{
+	top: -18px;
+	left: 0px;
+	color: #03a9f4;
+	font-size: 16px;
+}
+.container3 
+{
+	position: relative;
+	top: 0;
+	left: none;
+}
+.container3 .dropdown
+{
+	position: relative;
+	top: 0;
+	left: 5%;
+}
+.container3 .dropdown .btn
+{
+margin: 15px;
+}
+.container3 .dropdown .btn:hover{
+  background-color: green;
+  color: white;
+}
+.container3 .dropdown .dropdown-item:hover{
+  background-color: red;
+  color: white;
+}
+.container3 .dropdown .dropdown-item:hover{
+  display: block;
+
+}
+
+.container .btn {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 12px;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  
+}
+.container .btn:hover {
+  background-color: blue;
+  color: white;
+}
+
+.img
+{
+	height: 100px;
+	width: 100px;
+	padding: 5px;
+}
+.fa-star,
+.fa-star-half{
+	color:green;
+	padding: 3% 0;
+}
+
+.blink{
+		-webkit-animation:blink 1s linear infinite;
+		-moz-animation:blink 1s linear infinite;
+		animation:blink 1s linear infinite;
+		}
+		@-webkit-keyframes blink{
+			0%{opacity:1;}
+			50%{opacity:0;}
+			100%{opacity:1;}
+		}
+		@-moz-keyframes blink{
+			0%{opacity:1;}
+			50%{opacity:0;}
+			100%{opacity:1;}
+		}
+		@keyframes blink{
+			0%{opacity:1;}
+			50%{opacity:0;}
+			100%{opacity:1;}
+		}
+

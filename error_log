@@ -1,0 +1,48 @@
+[29-Oct-2019 10:31:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/registration.php on line 5
+[29-Oct-2019 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/registration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/registration.php on line 12
+[31-Oct-2019 08:30:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:30:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:30:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:31:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:32:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[31-Oct-2019 08:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/commu.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/db.php on line 2
+[01-Nov-2019 05:33:17 UTC] PHP Notice:  Undefined index: username in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/home.php on line 20

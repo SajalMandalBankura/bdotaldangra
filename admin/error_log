@@ -1,0 +1,197 @@
+[31-Oct-2019 08:13:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 08:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 08:13:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 08:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 08:54:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 08:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:35:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php(61): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:36:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php(61): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:36:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php(61): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:43:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php(61): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:44:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:2
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php(61): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 2
+[31-Oct-2019 09:55:55 UTC] PHP Notice:  Undefined index: active in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php on line 73
+[31-Oct-2019 09:55:55 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[31-Oct-2019 09:55:55 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 05:01:14 UTC] PHP Notice:  Undefined index: active in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php on line 73
+[01-Nov-2019 05:01:14 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 05:01:14 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: curdate in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 151
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: title in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: lname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: email in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 177
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: nat in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 182
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: country in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 187
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: Phone in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 192
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: troom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 197
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: nroom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 202
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: meal in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 207
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: bed in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 212
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: cin in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 217
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: cout in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 222
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: days in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 227
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: sta in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 232
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[01-Nov-2019 05:01:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[01-Nov-2019 05:01:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 272
+[01-Nov-2019 05:01:41 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[01-Nov-2019 05:01:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[01-Nov-2019 05:01:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 307
+[01-Nov-2019 05:01:42 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 05:01:42 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 05:03:26 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/profit.php on line 44
+[01-Nov-2019 05:38:24 UTC] PHP Notice:  Undefined index: active in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php on line 73
+[01-Nov-2019 05:38:24 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 05:38:24 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: curdate in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 151
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: title in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: lname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: email in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 177
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: nat in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 182
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: country in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 187
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: Phone in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 192
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: troom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 197
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: nroom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 202
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: meal in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 207
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: bed in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 212
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: cin in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 217
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: cout in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 222
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: days in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 227
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: sta in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 232
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[01-Nov-2019 05:38:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[01-Nov-2019 05:38:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 272
+[01-Nov-2019 05:38:37 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[01-Nov-2019 05:38:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[01-Nov-2019 05:38:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 307
+[01-Nov-2019 05:38:38 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 05:38:38 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 05:38:54 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/profit.php on line 44
+[01-Nov-2019 05:38:55 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/payment.php on line 38
+[01-Nov-2019 05:38:55 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 37
+[01-Nov-2019 05:38:55 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 05:38:55 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 08:05:24 UTC] PHP Notice:  Undefined index: active in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php on line 73
+[01-Nov-2019 08:05:24 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 08:05:24 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 08:05:49 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 08:05:49 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[01-Nov-2019 08:05:51 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[01-Nov-2019 08:05:51 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:09:24 UTC] PHP Notice:  Undefined index: active in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/index.php on line 73
+[02-Nov-2019 14:09:25 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:09:25 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: curdate in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 151
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: title in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: lname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: email in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 177
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: nat in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 182
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: country in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 187
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: Phone in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 192
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: troom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 197
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: nroom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 202
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: meal in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 207
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: bed in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 212
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: cin in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 217
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: cout in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 222
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: days in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 227
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: sta in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 232
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[02-Nov-2019 14:09:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[02-Nov-2019 14:09:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 272
+[02-Nov-2019 14:09:40 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[02-Nov-2019 14:09:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[02-Nov-2019 14:09:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 307
+[02-Nov-2019 14:09:41 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:09:41 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: curdate in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 151
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: title in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: lname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 172
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: email in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 177
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: nat in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 182
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: country in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 187
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: Phone in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 192
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: troom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 197
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: nroom in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 202
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: meal in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 207
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: bed in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 212
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: cin in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 217
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: cout in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 222
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: days in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 227
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: sta in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 232
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[02-Nov-2019 14:09:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 266
+[02-Nov-2019 14:09:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 272
+[02-Nov-2019 14:09:48 UTC] PHP Notice:  Undefined variable: con in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[02-Nov-2019 14:09:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 301
+[02-Nov-2019 14:09:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/roombook.php on line 307
+[02-Nov-2019 14:09:49 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:09:49 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:09:57 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/payment.php on line 38
+[02-Nov-2019 14:09:59 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 37
+[02-Nov-2019 14:09:59 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:09:59 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 37
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined index: user in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 37
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined variable: fname in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 374
+[02-Nov-2019 14:10:01 UTC] PHP Notice:  Undefined variable: ps in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/home.php on line 380
+[07-Nov-2019 07:00:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'socialnetwork'@'localhost' (using password: YES) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
+[07-Nov-2019 07:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:3
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
+[07-Nov-2019 07:01:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'socialnetwork'@'localhost' (using password: YES) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
+[07-Nov-2019 07:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:3
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
+[07-Nov-2019 07:02:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'socialnetwork'@'localhost' (using password: YES) in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
+[07-Nov-2019 07:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php:3
+Stack trace:
+#0 /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/reservation.php(2): include()
+#1 {main}
+  thrown in /home/uywhbpszcddz/public_html/bdotaldangra.serviceg.in/admin/db.php on line 3
